@@ -5,8 +5,8 @@
 %global crate scroll
 
 Name:           rust-%{crate}
-Version:        0.9.2
-Release:        5%{?dist}
+Version:        0.13.0
+Release:        1%{?dist}
 Summary:        Powerful, extensible, generic, endian-aware Read/Write traits for byte buffers
 
 License:        MIT
